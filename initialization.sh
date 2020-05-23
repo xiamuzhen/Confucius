@@ -1,4 +1,3 @@
-```
 #!/bin/bash
 
 setenforce 0
@@ -26,4 +25,3 @@ yum clean all &> /dev/null
 yum makecache &> /dev/null
 
 systemctl poweroff
-```
