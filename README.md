@@ -1,3 +1,1 @@
 # Confucius
-
-## author:Harute
