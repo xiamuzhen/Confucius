@@ -6,6 +6,6 @@ cat >> /etc/security/limits.conf << EOF
 EOF
 
 cat >> /etc/sysctl.conf << EOF
-vm.max_map_count=262144
+vm.max_map_count = 262144
 EOF
 sysctl -p
