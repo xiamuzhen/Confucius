@@ -1,0 +1,7 @@
+{
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "update.mode": "none",
+    "workbench.startupEditor": "none"
+}
