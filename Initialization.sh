@@ -21,7 +21,4 @@ gpgcheck=0
 enabled=1
 EOF
 
-yum clean all &> /dev/null
-yum makecache &> /dev/null
-
 systemctl poweroff
