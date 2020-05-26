@@ -21,4 +21,6 @@ gpgcheck=0
 enabled=1
 EOF
 
+yum -y install lrzsz &> /dev/null
+
 systemctl poweroff
