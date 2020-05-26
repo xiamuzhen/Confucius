@@ -1,3 +1,3 @@
 # Confucius
 
-### Something Scripts
+### Something scripts
