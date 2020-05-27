@@ -21,6 +21,14 @@ etc/hadoop/core-site.xml:
 
 etc/hadoop/hdfs-site.xml:
     <property>
+        <name>dfs.namenode.secondary.http-address</name>
+        <value>0.0.0.0:50090</value>
+    </property>
+    <property>
+        <name>dfs.namenode.secondary.https-address</name>
+        <value>0.0.0.0:50091</value>
+    </property>
+    <property>
         <name>dfs.replication</name>
         <value>1</value>
     </property>
