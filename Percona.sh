@@ -5,3 +5,5 @@ baseurl=https://mirrors.tuna.tsinghua.edu.cn/percona/yum/release/\$releasever/RP
 enabled=1
 gpgcheck=0
 EOF
+
+yum -y install Percona-Server-server-56
