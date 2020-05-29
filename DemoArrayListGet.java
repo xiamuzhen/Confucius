@@ -5,7 +5,7 @@ public class DemoArrayListGet<E> extends AbstractList {
     private int size;
 
     @Override
-    public Object get(int index) {
+    public E get(int index) {
         rangeCheck(index);
         return elementData(index);
     }
