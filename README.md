@@ -1,3 +1,3 @@
 # Confucius
 
-### Something scripts
+### 所见所领，皆是生活。
