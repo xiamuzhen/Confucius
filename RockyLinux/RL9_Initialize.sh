@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 
 sed -i 's|SELINUX=enforcing|SELINUX=disabled|' /etc/selinux/config
@@ -15,4 +14,3 @@ yum makecache &> /dev/null
 yum -y install bash-completion lrzsz net-tools tar vim wget &> /dev/null
 
 systemctl poweroff
-```
