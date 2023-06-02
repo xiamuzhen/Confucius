@@ -4,13 +4,13 @@
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.2.0 https://maven.apache.org/xsd/settings-1.2.0.xsd">
 
-  <localRepository>D:\Development\Java\apache-maven-3.9.1\repository</localRepository>
+  <localRepository></localRepository>
 
-  <pluginGroups> </pluginGroups>
+  <pluginGroups></pluginGroups>
 
-  <proxies> </proxies>
+  <proxies></proxies>
 
-  <servers> </servers>
+  <servers></servers>
 
   <mirrors>
     <mirror>
@@ -21,6 +21,6 @@
     </mirror>
   </mirrors>
 
-  <profiles> </profiles>
+  <profiles></profiles>
 
 </settings>
