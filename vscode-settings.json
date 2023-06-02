@@ -1,9 +1,0 @@
-{
-    "editor.fontSize": 15,
-    "editor.minimap.enabled": false,
-    "extensions.ignoreRecommendations": true,
-    "files.autoSave": "afterDelay",
-    "security.workspace.trust.enabled": false,
-    "update.mode": "none",
-    "workbench.startupEditor": "none"
-}
