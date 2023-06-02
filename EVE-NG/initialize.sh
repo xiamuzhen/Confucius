@@ -1,4 +1,5 @@
-```bash
+#!/bin/bash
+
 /opt/unetlab/addons/dynamips/
 /opt/unetlab/addons/iol/bin/
 /opt/unetlab/wrappers/unl_wrapper -a fixpermissions
@@ -16,4 +17,3 @@ deb-src https://mirrors.aliyun.com/ubuntu/ focal-updates main restricted univers
 deb https://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse
 deb-src https://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse
 EOF
-```
