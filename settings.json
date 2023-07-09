@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 18, // 编辑器字体大小
+    "editor.wordWrap": "on", // 编辑器自动换行
+    "editor.minimap.enabled": false, // 编辑器迷你地图
+    "files.autoSave": "onFocusChange", // 文件自动保存
+    "terminal.integrated.defaultProfile.windows": "Command Prompt", // 终端默认文件
+    "update.mode": "none", // 更新模式
+    "window.commandCenter": false, // 窗体命令中心
+    "window.zoomLevel": -1, // 窗体缩放等级
+    "workbench.colorTheme": "GitHub Dark Default", // 工作台颜色主题
+    "workbench.iconTheme": "vscode-icons", // 工作台图标主题
+    "workbench.layoutControl.enabled": false, // 工作台布局控制
+    "workbench.startupEditor": "newUntitledFile", // 工作台启编辑器
+}
