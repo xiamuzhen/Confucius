@@ -3,3 +3,9 @@
 ```
 =IFERROR(RIGHT(A1,LEN(A1)-FIND("@",SUBSTITUTE(A1,"\","@",LEN(A1)-LEN(SUBSTITUTE(A1,"\",""))))),A1)
 ```
+
+### 自增序列
+
+```
+=MAX($A$1:A1)+1
+```
